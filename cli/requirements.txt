@@ -125,7 +125,7 @@ pyyaml==6.0.1
     # via
     #   -r requirements.in
     #   jsonschema-spec
-requests==2.31.0
+requests==2.32.0
     # via
     #   docker
     #   jsonschema-spec
